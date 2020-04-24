@@ -1,2 +1,3 @@
 ## Proyecto
-### Mi primer proyecto de prueba en GitHub
+### Mi primer proyecto de en GitHub
+### Autor: César Abad
